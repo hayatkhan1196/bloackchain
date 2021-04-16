@@ -1,0 +1,35 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 95%;
+  }
+  
+  td {
+    border: 1px solid #dddddd;
+  
+    text-align: right;
+    padding: 8px;
+  }
+  th {
+    border: 1px solid #dddddd;
+    background-color: rgb(73, 72, 72);
+    text-align: right;
+    color: #dddddd;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #c1bebe;
+  }
+  .container {
+    background-color: rgb(175, 173, 179);
+    height: 700px;
+  
+    width: 100%;
+    padding-top: 60px;
+  }
+  
+  #item_table {
+    margin: 20px;
+  }
+  
